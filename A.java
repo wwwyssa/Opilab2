@@ -78,3 +78,4 @@ class A {
 =======
 //tmp
 >>>>>>> Stashed changes
+wir hard in red line
