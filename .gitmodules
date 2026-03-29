@@ -1,0 +1,3 @@
+[submodule "tempMailBot"]
+	path = tempMailBot
+	url = https://github.com/wwwyssa/tempMailBot.git
