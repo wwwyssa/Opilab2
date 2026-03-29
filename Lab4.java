@@ -19,6 +19,7 @@ public class Lab4 {
   b.y24(c);
   }
 }
-previous : 13
-//tmp
-//tmp
+previous : 9
+previous : 10
+wir hard in blue line
+
