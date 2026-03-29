@@ -73,4 +73,8 @@ class A {
   }
 }
 //I add it in github
+<<<<<<< Updated upstream
 //UPD
+=======
+//tmp
+>>>>>>> Stashed changes
