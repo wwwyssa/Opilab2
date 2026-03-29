@@ -21,3 +21,4 @@ public class Lab4 {
 }
 previous : 9
 previous : 10
+wir hard in blue line
