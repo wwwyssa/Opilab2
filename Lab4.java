@@ -19,5 +19,4 @@ public class Lab4 {
   b.y24(c);
   }
 }
-previous : 9
-previous : 10
+previous : 13
