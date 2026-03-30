@@ -72,10 +72,14 @@ class A {
     r.y40();
   }
 }
+
 //I add it in github
-<<<<<<< Updated upstream
+
 //UPD
-=======
+
 //tmp
->>>>>>> Stashed changes
-wir hard in red line
+//blue edit
+
+
+blue edit
+
