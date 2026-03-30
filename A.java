@@ -78,8 +78,3 @@ class A {
 //UPD
 
 //tmp
-//blue edit
-
-
-blue edit
-
